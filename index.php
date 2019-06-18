@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+<?php header( 'Location: /index.html' ) ;  ?>
 	<head><script src="/gdpr/gdprscript.js?buildTime=1234&hasRemindMe=true&stealth=false"></script>
 		<title>Brandon-Lee Blignaut Portofolio</title>
 
